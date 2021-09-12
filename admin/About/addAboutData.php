@@ -30,11 +30,11 @@ include "../sharedFiles/Navbar.php";
             <form method="post" action="../../backend" id="quickForm">
               <div class="card-body">
 
-                <div class="form-group w-50">
+                <div class="form-group">
                   <label for="exampleInputEmail1">Email address</label>
                   <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
                 </div>
-                <div class="form-group w-50">
+                <div class="form-group">
                   <label for="exampleInputEmail1">Email address</label>
                   <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
                 </div>
